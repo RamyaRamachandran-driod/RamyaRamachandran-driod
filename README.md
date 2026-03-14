@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm an MS Computer Science student at the University of Arizona, and I enjoy building full-stack applications, AI systems and also do NLP research!
-**
+I'm an MS Computer Science student at the University of Arizona, and I enjoy building full-stack applications, AI systems and also do NLP research!
 I'm currently working on building a high-performance visualization tool to beat a conventionally used system.
 I'm also learning Rust!
 You can reach via email (ramya0510@arizona.edu) or drop me a message on [LinkedIn](https://www.linkedin.com/in/ramya-offl/).
