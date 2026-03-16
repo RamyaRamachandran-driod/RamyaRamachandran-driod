@@ -1,8 +1,8 @@
 # Hi, I'm Ramya! 👋 
 
-**MS Computer Science Student @ University of Arizona** *Specializing in High-Performance Systems, AI/ML, and NLP Research*
+I'm currently an MS Computer Science Student at the University of Arizona, building in performant AI systems, software applications and engaging in AI/ML research!
 
-I am a systems-focused developer passionate about building scalable, high-performance applications. Currently, I am focused on **optimizing data visualization pipelines** and exploring the **Rust ecosystem** for systems-level programming.
+I'm passionate about bringing the best out of the software I build and try ot make them as resilient as possible. Currently, I'm learning the Rust and its ecosystem for optimizing data visualization pipelines. I'm also learning to frame better evaluation metrics for AI systems!
 
 ---
 
