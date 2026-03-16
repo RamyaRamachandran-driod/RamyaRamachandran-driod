@@ -48,7 +48,6 @@ I am a systems-focused developer passionate about building scalable, high-perfor
 
 ---
 
-### 📫 Connect with me via:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-offl/)
-[![Email - ramya0510@arizona.edu](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramya0510@arizona.edu)
+### 🤝 Let's connect!
+| **Professional** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-offl/) |
+| **Academic** | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramya0510@arizona.edu) |
