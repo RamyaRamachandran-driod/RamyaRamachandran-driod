@@ -2,7 +2,7 @@
 
 I'm currently an MS Computer Science Student at the University of Arizona, building in performant AI systems, software applications and engaging in AI/ML research!
 
-I'm passionate about bringing the best out of the software I build and try ot make them as resilient as possible. Currently, I'm learning the Rust and its ecosystem for optimizing data visualization pipelines. I'm also learning to frame better evaluation metrics for AI systems!
+I'm passionate about bringing the best out of the software I build and try to make them as resilient as possible. Currently, I'm learning the Rust and its ecosystem for optimizing data visualization pipelines. I'm also learning to frame better evaluation metrics for AI systems!
 
 ---
 
